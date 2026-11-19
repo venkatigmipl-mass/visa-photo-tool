@@ -4,7 +4,7 @@
         android:allowBackup="true"
         android:label="Visa Photo Tool"
         android:supportsRtl="true"
-        android:theme="@style/Theme.VisaPhotoTool"
+        android:theme="@style/Theme.VisaPhotoTool">
         <activity
             android:name=".MainActivity"
             android:exported="true">
